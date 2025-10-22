@@ -1,0 +1,9 @@
+[package]
+name = "text_man"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+serde = "1.0.228"
+reqwest = "0.12.24"
+iced = "0.13.1"
